@@ -327,7 +327,6 @@ User Acceptance Testing (UAT) – Conducted by the client to approve the softwar
 Alpha Testing – Performed internally by testers before public release.
 Beta Testing – Performed by real users to gather feedback before the official launch.
 Tools Used:
-
 TestRail, FitNesse, Cucumber (for behavior-driven testing).
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -352,7 +351,6 @@ Example: In chatbots, carefully designed prompts can generate more natural and e
 5. Facilitates Better Human-AI Collaboration
 Engineers and users can control output format, tone, and detail level.
 Example: A prompt like "Write a professional email requesting a meeting with a client" ensures an AI-generated response matches business etiquette.
-
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Problems with this prompt:
 
